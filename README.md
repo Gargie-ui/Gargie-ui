@@ -1,14 +1,13 @@
 <h2 align="left">Hi 👋! My name is Gargi Channe, a 3rd year Artificial Intelligence Engineering student</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gargie-ui&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Gargie-ui&show_icons=true&theme=tokyonight&hide_title=true" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gargie-ui&layout=compact&theme=tokyonight" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=gargichanne&theme=tokyonight" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=Gargie-ui&theme=tokyonight" height="150"/>
 </p>
-
 ###
 
 <img align="right" height="150" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif"/>
