@@ -2,7 +2,7 @@
 🔭 I’m currently working on projects where AI meets thoughtful design  <br>👯 I’m looking to collaborate on GenAI, NLP, and creative tech ideas  <br>🤝 I’m exploring smarter ways to build scalable AI systems  <br>🌱 I’m currently learning deep learning and system architecture  <br>💬 Ask me about AI, design, and building things from scratch  <br>⚡ Fun fact: Thodi si overthinking, thoda sa overcoding 😼
 
 ## 🎞️ Portfolio:
-[![Portfolio](https://img.shields.io/badge/Portfolio-%230077B5.svg?logo=Portfolio&logoColor=green)](https://ai-portfolio-94.aura.build)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%230077B5.svg?logo=Portfolio&logoColor=red)](https://ai-portfolio-94.aura.build)
 
 
 ## 🌐 Socials:
