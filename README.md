@@ -1,5 +1,14 @@
 <h2 align="left">Hi 👋! My name is Gargi Channe, a 3rd year Artificial Intelligence Engineering student</h2>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gargie-ui&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gargie-ui&layout=compact&theme=tokyonight" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=gargichanne&theme=tokyonight" height="150"/>
+</p>
+
 ###
 
 <img align="right" height="150" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif"/>
@@ -13,17 +22,18 @@
 <div align="left">
 
   <a href="mailto:gargichanne@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="35"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35"/>
   </a>
 
   <a href="https://www.linkedin.com/in/gargi-channe-217284353/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="35"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/>
+  </a>
+
+  <a href="https://ai-portfolio-94.aura.build" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=google-chrome&logoColor=white" height="35"/>
   </a>
 
 </div>
-
-###
-s://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 
 ### Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
