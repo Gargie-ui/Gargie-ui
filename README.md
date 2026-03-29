@@ -28,6 +28,8 @@
   </a>
 
 </div>
+##
+![Snake animation](https://github.com/Gargie-ui/Gargie-ui/blob/output/github-contribution-grid-snake.svg)
 
 ### Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
