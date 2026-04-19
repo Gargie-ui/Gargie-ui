@@ -40,8 +40,8 @@ My focus areas include:
 ![C++](https://img.shields.io/badge/C++-9333EA?style=flat&logo=c%2B%2B&logoColor=white)
 
 ### 🌐 Web Development
-![HTML](https://img.shields.io/badge/HTML5-9333EA?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-7C3AED?style=flat&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-9333EA?style=flat&logo=html&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-7C3AED?style=flat&logo=css&logoColor=white)
 
 ### 🤖 AI / ML
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-9333EA?style=flat&logo=tensorflow&logoColor=white)
