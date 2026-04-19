@@ -3,12 +3,21 @@
 AI Engineer | ML Enthusiast | UI/UX Designer
 </p>
 
-<p align="center">
-<a href="https://gargie-ui.github.io/Portfolio/">Portfolio</a> •
-<a href="https://github.com/Gargie-ui">GitHub</a> •
-<a href="https://www.linkedin.com/in/gargi-channe/">LinkedIn</a> •
-<a href="mailto:gargichanne@gmail.com">Email</a>
-</p>
+<div align="center">
+
+  <a href="mailto:gargichanne@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-9333EA?style=for-the-badge&logo=gmail&logoColor=white" height="35"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/gargi-channe/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/>
+  </a>
+
+  <a href="https://gargie-ui.github.io/Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-A855F7?style=for-the-badge&logo=google-chrome&logoColor=white" height="35"/>
+  </a>
+
+</div>
 
 ---
 
@@ -48,23 +57,6 @@ My focus areas include:
 ### ⚙️ Tools
 ![Figma](https://img.shields.io/badge/Figma-A855F7?style=flat&logo=figma&logoColor=white)
 
-###
-
-<div align="left">
-
-  <a href="mailto:gargichanne@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35"/>
-  </a>
-
-  <a href="https://www.linkedin.com/in/gargi-channe-217284353/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/>
-  </a>
-
-  <a href="https://ai-portfolio-94.aura.build" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=google-chrome&logoColor=white" height="35"/>
-  </a>
-
-</div>
 
 <p align="center">
   <img src="https://github.com/Gargie-ui/Gargie-ui/blob/output/github-contribution-grid-snake-dark.svg" />
