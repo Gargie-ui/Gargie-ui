@@ -1,15 +1,52 @@
-<h2 align="left">Hi 👋! My name is Gargi Channe, a 3rd year Artificial Intelligence Engineering student</h2>
+<h1 align="center">Gargi Channe</h1>
+<p align="center">
+AI Engineer | ML Enthusiast | UI/UX Designer
+</p>
 
-<p align="left">
+<p align="center">
+<a href="https://gargie-ui.github.io/Portfolio/">Portfolio</a> •
+<a href="https://github.com/Gargie-ui">GitHub</a> •
+<a href="https://www.linkedin.com/in/gargi-channe/">LinkedIn</a> •
+<a href="mailto:gargichanne@gmail.com">Email</a>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gargie-ui&theme=highcontrast" alt="gargie-ui" /></p>
+---
+
+## About Me
+
+I'm Gargi Channe, an Artificial Intelligence Engineering student from Nagpur, India.  
+I enjoy building intelligent systems that combine machine learning with intuitive design.
+
+My focus areas include:
+- Machine Learning & Deep Learning  
+- Computer Vision & NLP  
+- AI-powered applications with real-world impact  
 
 
-<img align="right" height="150" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif"/>
+## 💻 Tech Stack
 
+### 🧠 Languages
+![Python](https://img.shields.io/badge/Python-6D28D9?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-A855F7?style=flat&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-9333EA?style=flat&logo=c%2B%2B&logoColor=white)
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+### 🌐 Web Development
+![HTML](https://img.shields.io/badge/HTML5-9333EA?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-7C3AED?style=flat&logo=css3&logoColor=white)
+
+### 🤖 AI / ML
+![TensorFlow](https://img.shields.io/badge/TensorFlow-9333EA?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-7C3AED?style=flat&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-A855F7?style=flat&logo=keras&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/ScikitLearn-6D28D9?style=flat&logo=scikit-learn&logoColor=white)
+
+### 📊 Data & Libraries
+![NumPy](https://img.shields.io/badge/NumPy-9333EA?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-7C3AED?style=flat&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-A855F7?style=flat&logo=matplotlib&logoColor=white)
+
+### ⚙️ Tools
+![Figma](https://img.shields.io/badge/Figma-A855F7?style=flat&logo=figma&logoColor=white)
 
 ###
 
@@ -33,8 +70,6 @@
   <img src="https://github.com/Gargie-ui/Gargie-ui/blob/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
-### Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Gargie-ui&icon=0&color=12)](https://visitcount.itsvg.in)
