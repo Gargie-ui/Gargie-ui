@@ -18,7 +18,7 @@ AI Engineer | ML Enthusiast | UI/UX Designer
   </a>
 
   <a href="https://huggingface.co/Gigishot" target="_blank">
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFCC4D?style=for-the-badge&logo=huggingface&logoColor=black" height="35"/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-7C3AED?style=for-the-badge&logo=huggingface&logoColor=white" height="35"/>
 </a>
 
 </div>
